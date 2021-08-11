@@ -1,6 +1,6 @@
 # entps
 
-ent pure go sqlite3 driver
+[ent](https://github.com/ent/ent) pure go sqlite3 driver
 
 # example
 
