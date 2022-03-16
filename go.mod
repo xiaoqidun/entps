@@ -2,7 +2,7 @@ module github.com/xiaoqidun/entps
 
 go 1.18
 
-require modernc.org/sqlite v1.15.1
+require modernc.org/sqlite v1.15.2
 
 require (
 	github.com/google/uuid v1.3.0 // indirect
