@@ -2,7 +2,7 @@ module github.com/xiaoqidun/entps
 
 go 1.18
 
-require modernc.org/sqlite v1.15.3
+require modernc.org/sqlite v1.15.4
 
 require (
 	github.com/google/uuid v1.3.0 // indirect
@@ -15,7 +15,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	lukechampine.com/uint128 v1.1.1 // indirect
 	modernc.org/cc/v3 v3.35.24 // indirect
-	modernc.org/ccgo/v3 v3.15.17 // indirect
+	modernc.org/ccgo/v3 v3.15.18 // indirect
 	modernc.org/libc v1.14.12 // indirect
 	modernc.org/mathutil v1.4.1 // indirect
 	modernc.org/memory v1.0.7 // indirect
