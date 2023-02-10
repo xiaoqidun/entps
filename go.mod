@@ -1,8 +1,8 @@
 module github.com/xiaoqidun/entps
 
-go 1.19
+go 1.20
 
-require modernc.org/sqlite v1.20.3
+require modernc.org/sqlite v1.20.4
 
 require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
