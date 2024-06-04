@@ -1,6 +1,6 @@
 module github.com/xiaoqidun/entps
 
-go 1.22.3
+go 1.20
 
 require modernc.org/sqlite v1.30.0
 
