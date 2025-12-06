@@ -3,6 +3,7 @@ package entps
 import (
 	"database/sql"
 	"database/sql/driver"
+
 	"modernc.org/sqlite"
 )
 
