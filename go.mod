@@ -2,7 +2,7 @@ module github.com/xiaoqidun/entps
 
 go 1.25.0
 
-require modernc.org/sqlite v1.47.0
+require modernc.org/sqlite v1.48.1
 
 require (
 	github.com/dustin/go-humanize v1.0.1 // indirect
